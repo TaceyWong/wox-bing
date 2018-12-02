@@ -1,0 +1,12 @@
+{
+    "ID":"AA0253519656418F9D8FE9C723C4B492",   
+    "ActionKeyword":"bf",                     
+    "Name":"BaiduT",                             
+    "Description":"百度中译英",
+    "Author":"Tacey Wong",                     
+    "Version":"0.0.1",                         
+    "Language":"python",                       
+    "Website":"https://github.com/TaceyWong/wox-bing",
+    "IcoPath": "Images\\bing.png",              
+    "ExecuteFileName":"main.py"
+  }
